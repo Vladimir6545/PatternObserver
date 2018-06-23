@@ -1,0 +1,6 @@
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\bin\Debug\Observer_.exe.config
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\bin\Debug\Observer_.exe
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\bin\Debug\Observer_.pdb
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\obj\Debug\Observer_.csprojResolveAssemblyReference.cache
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\obj\Debug\Observer_.exe
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\Observer_\Observer_\obj\Debug\Observer_.pdb
